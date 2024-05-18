@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\bin\Debug\carpım_tablosu.exe.config
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\bin\Debug\carpım_tablosu.exe
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\bin\Debug\carpım_tablosu.pdb
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\obj\Debug\carpım_tablosu.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\obj\Debug\carpım_tablosu.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\obj\Debug\carpım_tablosu.exe
+C:\Users\VULKAN\Desktop\udemy\carpım_tablosu\carpım_tablosu\obj\Debug\carpım_tablosu.pdb
